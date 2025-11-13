@@ -14,6 +14,4 @@ vector_b = [4, -5, 6]
 
 result = dot_product(vector_a, vector_b)
 print("Dot Product:", result)
-
 print("hi")
-
